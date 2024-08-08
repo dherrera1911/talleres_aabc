@@ -1,15 +1,18 @@
-# Talleres del curso "Aprendizaje Automático Básico para Científicos", Facultad de Ingeniería, UdelaR, Uruguay
+# Aprendizaje Automático Básico para Científicos
+
+## Talleres del curso
 
 ![](assets/logo_curso.png)
 
 Este repositorio contiene los cuadernos de Python utilizados en los talleres
-del curso de posgrado
+de la primera edición del curso de posgrado
 [Aprendizaje Automático Básico para Científicos](https://cicada.uy/course/aprendizaje-automatico-basico-para-cientificos-aabc-edicion-2023/)
 (AABC), dictado por el Centro Interdisciplinario en Ciencia de
 Datos y Aprendizaje Automático (CICADA) de la Universidad de la
 República (UdelaR), Uruguay.
 
-Los cuadernos fueron creados por Ivan Meresman y Daniel Herrera-Esposito
+Los cuadernos fueron creados por [Ivan Meresman](https://ivanlmh.github.io/)
+y [Daniel Herrera-Esposito](https://dherrera1911.github.io/)
 para la primera edición del curso en 2021. El responsable del curso
 es el Prof. Ignacio Ramírez
 
@@ -35,6 +38,9 @@ indica el número de la clase a la que corresponde, y el tema.
 * [Clase 2: Aprendizaje Supervisado](notebooks/Taller2-Aprendizaje_supervisado.ipynb)
 * [Clase 3: Aprendizaje No Supervisado](notebooks/Taller3-Aprendizaje_no_supervisado.ipynb)
 * [Clase 4: Representación de los datos](notebooks/Taller4-Representacion_y_modelado.ipynb)
+* [Clase 5: Redes neuronales](notebooks/Taller5-Redes_neuronales_Random_forests.ipynb)
+* [Clase 6: Evaluación de modelos](notebooks/Taller6-Evaluacion_de_modelos.ipynb)
+* [Clase 7: Aplicaciones, Spike sorting](notebooks/Taller7-Aplicaciones.ipynb)
 
 Los cuadernos también usan datos que están en la carpeta `data`. Los datos
 que se encuentran en esta carpeta son:
@@ -54,5 +60,11 @@ que se encuentran en esta carpeta son:
 
 ## Instrucciones
 
-Poner instrucciones de como correr en Colab
+Estos cuadernos pueden ser corridos desde Google Colab.
+1) Vaya a la página de Google Colab: https://colab.research.google.com/
+2) Haga click en "File" -> "Open Notebook" -> "GitHub"
+3) Pegue la URL de este repositorio en el campo de búsqueda y seleccione
+  el cuaderno que quiere abrir, o pegue directamente la URL de un
+  cuaderno específico.
+
 
