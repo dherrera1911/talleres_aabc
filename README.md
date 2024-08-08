@@ -1,4 +1,4 @@
-# Aprendizaje Automático Básico para Científicos
+# Aprendizaje Automático Básico para Científicos (AABC)
 
 ## Talleres del curso
 
