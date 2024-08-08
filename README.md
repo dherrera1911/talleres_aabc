@@ -48,6 +48,9 @@ que se encuentran en esta carpeta son:
   descargan de [este enlace](https://openpsychometrics.org/_rawdata/FSIQ_0.1_data.zip).
 * `data_texto.zip`: Reviews de películas de la página IMDB. Los datos
   fueron obtenidos de [este repositorio](https://ai.stanford.edu/~amaas/data/sentiment/).
+* `leaves_train.csv`: Datos de hojas para un problema de clasificación
+  de imágenes. Los datos fueron obtenidos de
+ [este repositorio](https://www.kaggle.com/c/leaf-classification/data).
 
 ## Instrucciones
 
